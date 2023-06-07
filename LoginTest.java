@@ -4,10 +4,5 @@ public class UserTest{
 public void login(){
 
 }
-  
-@Test
-public void Faillogin(){
-
-}
 
 }
